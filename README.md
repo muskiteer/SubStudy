@@ -449,13 +449,6 @@ We welcome contributions! Here's how:
 
 ---
 
-## 📞 Support
-
-- **Issues:** [GitHub Issues](https://github.com/muskiteer/SubRevision/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/muskiteer/SubRevision/discussions)
-- **Email:** support@subrevision.dev (if available)
-
----
 
 <div align="center">
 
